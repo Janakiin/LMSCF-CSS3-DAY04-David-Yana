@@ -49,4 +49,11 @@ main {
  }
 
 
+.content img {
+  transition: width 1s, border 1s; }
+
+.content img:hover {
+  width: 350px;
+  border: 1px green solid; }
+
 /*# sourceMappingURL=styles.css.map */
