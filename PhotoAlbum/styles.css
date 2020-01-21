@@ -1,0 +1,51 @@
+.header {
+  padding: 25px 22px 30px 50px;
+  display: flex;
+  justify-content: space-between; }
+
+.header p {
+  margin-top: 35px;
+  font-family: Ubuntu;
+  font-size: 20px;
+  letter-spacing: -1px; }
+
+nav {
+  height: 38px; }
+
+nav ul {
+  padding-right: 62px;
+  text-align: right;
+  padding-top: 10px;
+  margin-top: -16px; }
+
+nav ul li {
+  display: inline; }
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  margin-left: 10px; }
+
+footer {
+  padding: 15px;
+  font-family: Ubuntu; }
+
+body {
+  font-family: "Open Sans", serif;
+  margin: 0;
+  padding: 0; }
+
+.header {
+  background-color: #cabbb7; }
+
+nav {
+  background-color: #c65252; }
+
+footer {
+  background-color: #cabbb7; }
+
+main {
+  padding: 20px;
+  margin: auto; }
+
+/*# sourceMappingURL=styles.css.map */
